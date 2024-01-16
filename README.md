@@ -23,4 +23,4 @@ python test_PLCL.py --model model_name  --iter 25000
 Our code is origin form [UAMT](https://github.com/yulequan/UA-MT), [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), [MC-net](https://github.com/ycwu1997/MC-Net). Thanks for their valuable works.
 
 ## Questions
-If you have any question, please contact with us at 'hustapper@gamil.com'.
+If any question, please contact with us at 'hustapper@gamil.com'. We have uploaded model [here](https://drive.google.com/drive/folders/1Wr7lFiTOQ6LzpOEWUddsMK586VfOWgiO?usp=sharing).
