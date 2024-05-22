@@ -198,6 +198,7 @@ if __name__ == "__main__":
     torch.manual_seed(args.seed)
     torch.cuda.manual_seed(args.seed)
 
+
     snapshot_path = "../model/{}/{}".format(
         args.exp, args.model)
     if not os.path.exists(snapshot_path):
